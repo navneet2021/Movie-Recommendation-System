@@ -2,6 +2,7 @@ Movie Recommendation System-
 
 Welcome to the Movie Recommendation System! This system is designed to provide personalized movie recommendations based on user preferences.
 Whether you're a movie enthusiast or just looking for something new to watch, our recommendation system aims to enhance your movie-watching experience.
+
 Technologies Used
 Python: The backend is built using Python, leveraging popular libraries for machine learning and web development.
 Machine Learning:
